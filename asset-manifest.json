@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/repository-tp2_dds/static/css/main.fd05f599.css",
+    "main.js": "/repository-tp2_dds/static/js/main.6ea8f3fa.js",
+    "static/js/453.cbc6b5f3.chunk.js": "/repository-tp2_dds/static/js/453.cbc6b5f3.chunk.js",
+    "index.html": "/repository-tp2_dds/index.html",
+    "main.fd05f599.css.map": "/repository-tp2_dds/static/css/main.fd05f599.css.map",
+    "main.6ea8f3fa.js.map": "/repository-tp2_dds/static/js/main.6ea8f3fa.js.map",
+    "453.cbc6b5f3.chunk.js.map": "/repository-tp2_dds/static/js/453.cbc6b5f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd05f599.css",
+    "static/js/main.6ea8f3fa.js"
+  ]
+}
